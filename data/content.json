@@ -1,0 +1,22 @@
+{
+  "site": {
+    "tagline":"My Portfolio"
+  },
+  "hero": {
+    "taglineHighlight": "Control-M",
+    "freelanceNote": "Supporting women through every milestone with expert healthcare, personalized attention, and unwavering compassion.",
+    "availableLabel": "Available for Consultations",
+    "pills": ["Obsterician", "Gynecologist", "Fertility Specialist", "Colpcospy Specialist"],
+    "specialistStat": { "value": "Colposcopy", "label": "Specialist" }
+  },
+  "interstitial": {
+    "availabilityLabel": "Availability",
+    "basedInLabel": "Based in",
+    "statLabels": ["Years\nexperience", "Enterprise\nroles", "AI automation\nprojects"]
+  },
+  "footer": {
+    "eyebrow": "Available for In-Person & Online Consultations",
+    "ctaLines": ["Care for Every Woman", "Every Stage"],
+    "ctaAccent": "Every Age."
+  }
+}

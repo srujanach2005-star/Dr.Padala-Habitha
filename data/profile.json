@@ -1,0 +1,178 @@
+{
+  "name": {
+    "first": "Dr.Habitha",
+    "last": "Padala",
+    "full": "Dr.Habitha Padala"
+  },
+  "email": "drhabithapadala0247@gmail.com",
+  "tagline": "Caring for Women at Every Stage, Every Age.",
+  "description":"Providing comprehensive, compassionate, and personalized healthcare for women through every stage of life—from adolescence and fertility to pregnancy, menopause, and beyond.",
+  "roles": {
+    "short": "Gynecologist",
+    "detailed": "Obsterician  | Gynecologist | Fertility Specialist | Colpcospy Specialist"
+  },
+  "location": {
+    "based": "in Eluru",
+    "availability": "Available Eluru / Remote"
+  },
+  "available": true,
+  "bio": "A Senior Obstetrician and Gynaecologist with a passion for providing compassionate, evidence-based care for women at every stage of life.During my service as a Civil Assistant Surgeon Specialist, I had the privilege of serving women in rural communities, managing numerous normal deliveries and obstetric emergencies. I also continued my medical responsibilities during the challenging COVID period, caring for pregnant women and conducting COVID-related deliveries while balancing my role as a mother.",
+  "stats": [
+    { "value": "12+", "label": "Years Experience" },
+    { "value": "8+", "label": "Enterprise Roles" },
+    { "value": "2", "label": "AI Automation Projects"}
+  ],
+  "skills": [
+    "Obstetrics",
+    "Gynecology",
+    "Fertility Care",
+    "Colposcopy Specialist  ",
+    "Laparoscopic Surgery",
+    "Hysteroscopy",
+    "Cervical Screening",
+    "I.U.I",
+    "Pap Smear",
+    "PMOS Management",
+    "Advanced Ultrasound Scanning",
+    "Complete Maternity Care",
+    "High-Risk Pregnancy Management",
+    "Uterine Fibroid Treatment",
+    "Menstrual Disorder Management",
+    "Family Planning and Contraception"
+  ],
+  "experience": [
+
+    {
+      "id": 1,
+      "role": "Post Graduate Trainee- Obstetrics & Gynaecology",
+      "company": "Osmania Medical College, Hyderabad",
+      "companyShort": "MGMH- Petlaburz Under Osmania Medical College",
+      "type": "Full-time",
+      "location": "Hyderabad, Telangana, India",
+      "period": "Jun 2013",
+      "periodEnd": "May 2016",
+      "bullets": [
+        "Trained at Osmania Medical College & Government Maternity Hospital (GMH), Petlaburz, a leading tertiary care centre in Obstetrics and Gynaecology.",
+        "Gained extensive exposure to high-risk pregnancies, obstetric emergencies, and advanced labour management.",
+        "Developed expertise in operative obstetrics, gynecological procedures, and evidence-based clinical decision-making.",
+        "Built strong clinical, surgical, and patient-care skills through high-volume tertiary healthcare practice."
+      ],
+      "desc": "Specialized in obstetrics, gynecology, infertility management, antenatal care, high-risk pregnancy monitoring, safe delivery practices, and comprehensive women's health services.",
+      "tech": ["Obstetrics", "Gynaecology", "High-Risk Pregnancy Care", "Infertility Management", "Antenatal Care", "Normal Deliveries", "Cesarean Sections", "PCOS Management", "Women's Health"]
+    },
+    {
+      "id": 2,
+      "role": "Senior Resident - Obstetrics & Gynaecology",
+      "company": "Kakatiya Medical College, Warangal ",
+      "companyShort": "KMC Warangal",
+      "type": "Full-time",
+      "location": "Warangal, Andhra Pradesh, India",
+      "period": "Oct 2017",
+      "periodEnd": "Jun 2018",
+      "bullets": [
+        "Trained at Kakatiya Medical College, Warangal, a well-established institution for medical education and healthcare.",
+        "Gained hands-on experience in managing routine and high-risk pregnancies, labour, and safe deliveries.",
+        "Developed skills in diagnosing and treating various gynaecological conditions.",
+        "Committed to providing compassionate, evidence-based care at every stage of a woman's life."
+      ],
+      "desc": "Specialized in obstetrics, gynecology, infertility management, antenatal care, high-risk pregnancy monitoring, safe delivery practices, and comprehensive women's health services.",
+      "tech": ["Obstetrics", "Gynaecology", "High-Risk Pregnancy Care", "Infertility Management", "Antenatal Care", "Normal Deliveries", "Cesarean Sections", "PCOS Management", "Women's Health"]
+    },
+    {
+      "id": 3,
+      "role": "CASS(Civil Assistant Surgeon Specialist) - Obstetrics & Gynaecology",
+      "company": "Area Hospital Mahaboobabad, Devarakonda",
+      "companyShort": "Area Hospital Mahaboobabad",
+      "type": "Full-time",
+      "location": "Devarakonda, Andhra Pradesh, India",
+      "period": "July 2018",
+      "periodEnd": "Aug 2022",
+      "bullets": [
+        "Civil Assistant Surgeon Specialist in Obstetrics & Gynaecology with extensive experience in women's healthcare.",
+        "Managed antenatal, postnatal, and high-risk pregnancy cases, including labour and delivery care.",
+        "Handled obstetric emergencies and provided essential maternity services during the COVID-19 pandemic.",
+        "Committed to compassionate patient care, clinical excellence, and positive maternal and neonatal outcomes."
+      ],
+      "desc": "Dedicated to providing expert obstetric, gynecological, infertility, and high-risk pregnancy care with a compassionate, patient-centered approach.",
+      "tech": ["Obstetrics", "Gynaecology", "Infertility Care", "High-Risk Pregnancy", "Antenatal Care", "Normal Deliveries", "Cesarean Sections", "PCOS Management", "Women's Health"]
+    },
+    {
+      "id": 4,
+      "role": "Consultant Gynecologist",
+      "company": "Juhith Adithya Hospital- Maternity & Fertility",
+      "companyShort": "Juhith Adithya Hospital",
+      "type": "Full-time",
+      "location": "Eluru, Andhra Pradesh, India",
+      "period": "Jun 2026",
+      "periodEnd": "Present",
+      "bullets": [
+        "To provide compassionate and evidence-based healthcare for women at every stage of life.",
+        "To empower women with the knowledge and support needed to make informed health decisions.",
+        "To ensure every patient feels heard, respected, and cared for in a safe environment, To be a trusted leader in women's health, maternity, and fertility care."
+      ],
+    "desc": "Providing expert maternity, fertility, and women's healthcare services with a commitment to compassionate, ethical, and evidence-based care.",
+    "tech": ["Obstetrician", "Gynecologist", "ICOG Infertility Specialist", "FMAS & DMAS Laparoscopic Surgeon", "Colposcopy Specialist", "Women’s Health Expert"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Advanced Women's Healthcare",
+      "subtitle": "Expert Care for Every Stage of Womanhood",
+      "type": "Expertise",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScRIa3TAB9Fe27l5zYkkWwpCslKcGOcNmfeLaBIAFBl1qJ6yg/viewform?usp=header",
+      "image": "/assets/Padala Habitha.Dr.png",
+      "tech": ["Gynecology", "Maternity Care", "Infertility Care", "Colposcopy", "Laparoscopic Surgery", "Women's Health"],
+      "desc": "Providing comprehensive gynecological, maternity, and infertility care with a focus on evidence-based treatment, patient safety, and compassionate support for women at every stage of life."
+    },
+    {
+      "id": 2,
+      "title": "Women's Healthcare Excellence",
+      "subtitle": "Expert Care for Every Stage of Womanhood",
+      "type": "Expertise",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScRIa3TAB9Fe27l5zYkkWwpCslKcGOcNmfeLaBIAFBl1qJ6yg/viewform?usp=header",
+      "image": "/assets/Dr.Habitha.png",
+      "tech": ["Gynecology", "Maternity Care", "Infertility Care", "Colposcopy", "Laparoscopic Surgery", "Women's Health"],
+      "desc": "Providing personalized consultations, evidence-based treatment, and continuous patient support to ensure the best outcomes in women's health, maternity, and fertility care."
+    }
+  ],
+  "publications": [
+    {
+      "id": 1,
+      "title": "Gynecology Care",
+      "platform": "Online Consultation",
+      "year": "2026",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScRIa3TAB9Fe27l5zYkkWwpCslKcGOcNmfeLaBIAFBl1qJ6yg/viewform?usp=header",
+      "desc": "Comprehensive diagnosis and treatment for gynecological conditions with a focus on long-term women's wellness."
+    },
+    {
+      "id": 2,
+      "title": "Maternity & Infertility Care",
+      "platform": "Online Consultation",
+      "year": "2026",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScRIa3TAB9Fe27l5zYkkWwpCslKcGOcNmfeLaBIAFBl1qJ6yg/viewform?usp=header",
+      "desc": "Expert maternity care and personalized fertility solutions to support women through every stage of motherhood."
+    },
+    {
+      "id": 3,
+      "title": "Colposcopy Services",
+      "platform": "Online Consultation",
+      "year": "2026",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScRIa3TAB9Fe27l5zYkkWwpCslKcGOcNmfeLaBIAFBl1qJ6yg/viewform?usp=header",
+      "desc": "Advanced colposcopy evaluation for early detection, diagnosis, and management of cervical health conditions."
+    },
+    {
+      "id": 4,
+      "title": "Laparoscopic Surgery & Hysteroscopy",
+      "platform": "Online Consultation",
+      "year": "2026",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScRIa3TAB9Fe27l5zYkkWwpCslKcGOcNmfeLaBIAFBl1qJ6yg/viewform?usp=header",
+      "desc": "Modern minimally invasive gynecological surgeries offering faster recovery, reduced pain, and better outcomes."
+    }
+  ],
+ "socials": [
+  { "label": "LinkedIn", "href": "https://www.linkedin.com/in/drpadalahabitha" },
+  { "label": "Instagram", "href": "https://www.instagram.com/gyneac.nextdoor" },
+  { "label": "YouTube", "href": "https://www.youtube.com/@Jyoti.ai.creative" }
+]
+}
